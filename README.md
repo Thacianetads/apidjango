@@ -4,7 +4,7 @@ Este projeto é uma API REST criada com Django e Django REST Framework para gere
 
 ## 📚 Funcionalidades
 
-- `GET /books//` → Lista todos os livros cadastrados na API.
+- Lista todos os livros cadastrados na API.
 
 ## 🔧 Tecnologias usadas
 
