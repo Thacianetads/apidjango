@@ -39,6 +39,6 @@ http://127.0.0.1:8000/books/
 
 Clique em "Send" para visualizar a lista de livros.
 
-## ✍️ Autora
+## 👩‍💻 Autora
 
 Thaciane – Projeto desenvolvido para fins de aprendizado e prática de API com Django.
