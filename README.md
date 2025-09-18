@@ -4,7 +4,7 @@ Este projeto é uma API REST criada com Django e Django REST Framework para gere
 
 ## 📚 Funcionalidades
 
-- `GET /books/` → Lista todos os livros cadastrados na API.
+- `GET /books//` → Lista todos os livros cadastrados na API.
 
 ## 🔧 Tecnologias usadas
 
@@ -22,7 +22,7 @@ python manage.py runserver
 
 Acesse a API em:
 
-http://127.0.0.1:8000/books/
+http://127.0.0.1:8000/books//
 
 ## 🧪 Testando com Insomnia
 
@@ -34,7 +34,7 @@ http://127.0.0.1:8000/books/
 
 4.Cole o endpoint:
 
-http://127.0.0.1:8000/books/
+http://127.0.0.1:8000/books//
 
 
 Clique em "Send" para visualizar a lista de livros.
